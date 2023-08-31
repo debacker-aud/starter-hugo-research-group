@@ -4,7 +4,7 @@ abstract: Our lab group will be providing updates on our collaboration with the
   loss through the use of predictive modeling.
 slides: null
 url_pdf: ""
-summary: An example event.
+summary: Our lab group will be providing updates on our collaboration with the Dawn Konrad-Martin lab to enhance the prevention of cancer-related hearing loss through the use of predictive modeling.
 title: International Summit for AI in Health Care
 location: Washington, DC
 date: 2023-09-08T19:20:00.000Z
