@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: Homepage
+widget_id: Hero
 headless: true
 weight: 10
 active: true
