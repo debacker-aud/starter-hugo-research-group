@@ -1,7 +1,7 @@
 ---
 title: Hunter Stuehm, Au.D.
 role: Research Audiologist
-avatar_filename: microsoftteams-image.png
+avatar_filename: avatar.png
 social:
   - display:
       header: false
