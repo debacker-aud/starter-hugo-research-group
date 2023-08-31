@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: dark
   theme_night:
   font: native
   font_size: L
@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'J. Riley DeBacker Research Group'
+    description: 'Ototoxicity and Genotoxicity Research Group'
+    twitter: 'debacker ototoxicity lab'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
