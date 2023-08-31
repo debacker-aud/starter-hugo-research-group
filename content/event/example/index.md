@@ -7,8 +7,8 @@ url_pdf: ""
 summary: An example event.
 title: International Summit for AI in Health Care
 location: Washington, DC
-date: 2023-09-08T22:20:00.000Z
-date_end: 2023-09-08T23:50:00.000Z
+date: 2023-09-08T19:20:00.000Z
+date_end: 2023-09-08T20:50:00.000Z
 all_day: false
 event: International Summit for AI in Health Care
 event_url: https://web.cvent.com/event/52819ac8-5e0b-4d1e-9d95-b33670d3e3fc/summary
