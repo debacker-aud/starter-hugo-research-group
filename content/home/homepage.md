@@ -2,7 +2,7 @@
 widget: hero
 widget_id: Hero
 headless: true
-weight: 10
+weight: 0
 active: true
 design:
   columns: "2"
