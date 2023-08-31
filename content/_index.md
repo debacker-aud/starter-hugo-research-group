@@ -20,7 +20,7 @@ sections:
       title: |
         Our Affiliations
       text: |
-        VA Portland Healthcare System
+        VA Portland Healthcare System <br>
         Oregon Health & Science University
 
 ---
