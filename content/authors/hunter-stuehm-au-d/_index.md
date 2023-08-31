@@ -7,7 +7,7 @@ social:
       header: false
     link: mailto:hunter.stuehm@va.gov
     icon_pack: far
-    icon: email
+    icon: mail
 education:
   courses: []
 superuser: false
