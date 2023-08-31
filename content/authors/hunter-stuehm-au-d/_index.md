@@ -11,4 +11,6 @@ social:
 education:
   courses: []
 superuser: false
+user_groups:
+  - ResearchAudiologists
 ---
