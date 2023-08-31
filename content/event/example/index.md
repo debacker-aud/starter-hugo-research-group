@@ -12,7 +12,7 @@ date_end: 2023-09-08T23:50:00.000Z
 all_day: false
 event: International Summit for AI in Health Care
 event_url: https://web.cvent.com/event/52819ac8-5e0b-4d1e-9d95-b33670d3e3fc/summary
-featured: false
+featured: true
 authors: []
 url_video: ""
 url_slides: ""
@@ -34,4 +34,3 @@ image:
     the VA NAII AI Summit Series Event
 url_code: ""
 ---
-
