@@ -13,7 +13,8 @@ sections:
       image:
         filename: Medications.jpg
       text: |
-        <b> Our Focus </b>
+        <br>
+        <b> Our Focus </b> <br>
         Our research group studies the effects of medications on hearing, balance, and genetics. Currently, our focus is on medications called antiretrovirals that are used to manage and prevent HIV/AIDS.
   - block: markdown
     content:
