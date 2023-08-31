@@ -12,5 +12,5 @@ education:
   courses: []
 superuser: false
 user_groups:
-  - Audiologists
+  - Researchers
 ---
