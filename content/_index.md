@@ -20,7 +20,7 @@ sections:
       title: |
         Our Affiliations
       text: |
-        VA Portland Healthcare System <br>
-        Oregon Health & Science University
+        [VA Portland Healthcare System](https://www.ncrar.research.va.gov/) <br>
+        [Oregon Health & Science University](https://www.ohsu.edu/oregon-hearing-research-center)
 
 ---
