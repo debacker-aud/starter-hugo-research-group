@@ -8,14 +8,15 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        DeBacker
         Research Group
       image:
-        filename: welcome.jpg
+        filename: Medications.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        <b> Our Focus </b>
+        Our research group studies the effects of medications on hearing, balance, and genetics. Currently, our focus is on medications called antiretrovirals that are used to manage and prevent HIV/AIDS.
   
   - block: collection
     content:
