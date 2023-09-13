@@ -5,7 +5,10 @@ avatar_filename: avatar.jpg
 bio: My research interests include ototoxic hearing loss and genetic mutations
   as a result of drug exposures.
 interests:
-  - Ototoxicity Genotoxicity HIV Cancer
+  - Ototoxicity
+  - Genotoxicity
+  - HIV
+  - Cancer
 social:
   - icon: envelope
     icon_pack: fas
